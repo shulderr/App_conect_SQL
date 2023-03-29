@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQL</string>
+    <string name="name">Nombre</string>
+    <string name="nit">Cedula</string>
+    <string name="tel">Telefono</string>
+    <string name="save">Guardar</string>
+    <string name="select">Consultar</string>
+</resources>
